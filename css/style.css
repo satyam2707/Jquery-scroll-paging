@@ -1,0 +1,38 @@
+.loader {
+	background: url("img/loader.gif") no-repeat scroll 0 0 transparent;
+	float: right;
+	margin: 2px 5px 5px;
+	width: 25px;
+}
+.outerWrapper {
+	margin: 50px;
+}
+
+.outerWrapper p {
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 5px 0;
+}
+#wrapper {
+	float: left;
+	width: 100%;
+	margin: 10px 0 10px 0;
+	border-bottom: 2px solid black;
+	padding-bottom: 25px;
+}
+#wrapper p {
+	float: left;
+	font-size: 16px;
+	width: 100%;
+}
+
+#scrollLoader {
+	color: green;
+	float: left;
+	font-size: 16px;
+	font-weight: bold;
+	padding: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	width: 100%;
+}
